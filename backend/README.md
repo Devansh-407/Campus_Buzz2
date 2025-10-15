@@ -33,6 +33,7 @@ Before starting, you need to install these on your computer:
 3. **Install dependencies**
    ```bash
    npm install
+   devansh
    ```
 
 4. **Setup environment variables**
